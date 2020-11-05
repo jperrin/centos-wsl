@@ -49,7 +49,8 @@ findutils
 wget
 curl
 man
-man-pages 
+man-pages
+passwd
 -iptables
 iputils
 iproute
