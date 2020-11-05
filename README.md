@@ -2,9 +2,9 @@
 
 ## Importing the image
 
-* Download the tarball and uncompress it using 7zip or another wsl distro. You should end up with ```centos-stream-wsl.tar``` when you're done.
+* Download the tarball from this repository.
 * Create a directory where you want to keep your custom wsl distros if you don't already have one. I like to use ```C:\distros``` but use what you want.
-* Import the tar file as a wsl image using powershell ```wsl.exe --import centos-stream C:\distros\centos-stream centos-stream-wsl.tar```
+* Import the tar file as a wsl image using powershell ```wsl.exe --import centos-stream C:\distros\centos-stream centos-stream-wsl.tar.gz```
 
 ## Configure the image
 
