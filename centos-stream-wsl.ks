@@ -35,6 +35,7 @@ part / --size 3000 --fstype ext4
 centos-release
 binutils
 -brotli
+zstd
 bash
 hostname
 rootfiles
